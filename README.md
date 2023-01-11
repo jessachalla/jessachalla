@@ -13,9 +13,6 @@ Right now I am focusing on learning and growing and am open to any help with tha
 - 📫 How to reach me: [email](mailto:contact@jessachalla.com)
 - Feel free to connect with me:
 
-<a href="https://www.instagram.com/jessa.challa/">
-  <img align="left" alt="Jessa's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
 <a href="https://twitter.com/JessaChalla">
   <img align="left" alt="Jessa's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
